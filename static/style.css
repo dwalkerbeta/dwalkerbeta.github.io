@@ -16,11 +16,11 @@ a:hover {
 html,
 body {
   height: 100%;
-  background: #eeeeee;
+  background: linear-gradient(0.07turn, #11151c, #12121c);
   font-family: 'Roboto Mono', monospace;
 }
 body {
-  color: #333;
+  color: #aea8a9;
   text-align: left;
 }
 
@@ -57,7 +57,7 @@ body {
 }
 
 h1 {
-  color: #2c2e8b;
+  color: #d65237;
 }
 
 code {
@@ -67,11 +67,11 @@ code {
 
 .link a,
 .link a:focus {
-  color: #3d7a2a;
+  color: #d65237;
 }
 
 .link a:hover {
-  color: #b81c23;
+  color: #4e6eaa;
   text-decoration: none;
 }
 
