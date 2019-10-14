@@ -1,7 +1,7 @@
 a,
 a:focus,
 a:hover {
-  color: #1c7720;
+  color: #1c7721;
 }
 
 a:hover {
@@ -16,7 +16,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background: linear-gradient(0.07turn, #11151c, #12121c);
+  background: linear-gradient(0.07turn, #110913, #1b0e1e);
   font-family: 'Roboto Mono', monospace;
 }
 body {
